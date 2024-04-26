@@ -181,8 +181,8 @@
   }
   .scrollableContainer_ff917f {
     border-radius: 5px;
-    border-bottom: 0x var(--background-teritary) solid; /* 2px var(--background-tertiary) solid; */ /* change #3 */
-    transition: border-color .15s ease;
+    border-bottom: /*0px var(--background-teritary) solid;*/ 2px var(--background-tertiary) solid; /* change #3 */
+    transition: none;/* border-color .15s ease; */
   }
   .scrollableContainer_ff917f:hover,
   .scrollableContainer_ff917f:focus-within {
