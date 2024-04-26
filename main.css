@@ -179,15 +179,6 @@
   .mentionButton__73096 {
     color: var(--accent-color);
   }
-  .scrollableContainer_ff917f {
-    border-radius: 5px;
-    border-bottom: 2px var(--background-teritary) solid;
-    transition: var(--border-color) .15s ease;
-  }
-  .scrollableContainer_ff917f:hover,
-  .scrollableContainer_ff917f:focus-within {
-      border-bottom-color: var(--accent-color);
-  }
   .emptyChannelIcon_d45c50 {
     background-color: var(--background-tertiary);
   }
