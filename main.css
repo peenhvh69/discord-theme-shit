@@ -180,7 +180,7 @@
     color: var(--accent-color);
   }
   .scrollableContainer_ff917f {
-    border-radius: 5px;
+    border-radius: 0px;
     border-bottom: 0px var(--background-teritary) solid; /*2px var(--background-tertiary) solid;*/ /* change #3 */
     transition: none;/* border-color .15s ease; */
   }
